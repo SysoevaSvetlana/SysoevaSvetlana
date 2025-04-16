@@ -12,7 +12,7 @@
 </p>
 
 ## 🛠 Технический стек
-* Java (Core, Collections, Stream API)
+* Java 
 * Spring Boot 
 * Базы данных: MySQL
 * Git/GitHub
