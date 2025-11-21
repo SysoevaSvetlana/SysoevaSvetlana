@@ -23,7 +23,7 @@
 * GeekBrains, Веб-разработка на Java
 
 ## 🔥 Мои проекты
-* [arehouseSystem](https://github.com/SysoevaSvetlana/WarehouseSystem.git) - приложение для управления поставками и складами
+* [WarehouseSystem](https://github.com/SysoevaSvetlana/WarehouseSystem.git) - приложение для управления поставками и складами
    
 * [LinkBack](https://github.com/SysoevaSvetlana/LinkBack.git) - приложение для создания коротких ссылок
 
