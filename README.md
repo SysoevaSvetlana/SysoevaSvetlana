@@ -17,6 +17,7 @@
 * Maven/Gradle
 * Swagger
 * Keycloak
+* Docker
 
 ## 📚 Образование
 * Воронежский государственный университет, ФКН, 3 курс
@@ -27,6 +28,8 @@
    
 * [LinkBack](https://github.com/SysoevaSvetlana/LinkBack.git) - приложение для создания коротких ссылок
 
-* [Booking System for Videographer (In Progress)](https://github.com/SysoevaSvetlana/Calendar.git) Веб-приложение для онлайн-бронирования съёмок с интеграцией Yandex Calendar и подтверждением заявок по email
+* [Booking System for Videographer](https://github.com/SysoevaSvetlana/Calendar.git) -сайт видеографа с возможностью онлайн-бронирования съёмок с интеграцией Yandex Calendar и подтверждением заявок по email
+  
+* [CardsSystem](https://github.com/SysoevaSvetlana/CardsSystem.git) - приложение для управления банковскими картами и переводами между ними
 
 
