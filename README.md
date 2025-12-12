@@ -11,7 +11,7 @@
 
 ## 🛠 Технический стек
 * Java 
-* Spring Boot 
+* Spring
 * MySQL
 * Git
 * Maven/Gradle
